@@ -1,1 +1,1 @@
-# Election
+Navigate to http://localhost:8502, wait a moment for the page to load, click through the items in the sidebar ("Home", "Voter Registration", "How the System Works", "Knowledge Quiz") to ensure all pages render, and finally return indicating success.
